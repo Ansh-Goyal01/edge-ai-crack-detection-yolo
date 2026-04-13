@@ -62,11 +62,7 @@ crack-detection-yolo/
 
 ## ▶️ Demo
 
-> Add your demo here (VERY IMPORTANT for resume impact)
 
-![Demo](assets/demo.gif)
-
----
 
 ## ⚙️ Installation
 
