@@ -1,0 +1,19 @@
+description: Ultralytics best model trained on /content/drive/MyDrive/crack_project/SurfaceCrackDetection.v1i.yolov8/data.yaml
+author: Ultralytics
+date: '2026-04-09T01:21:50.378819'
+version: 8.4.36
+license: AGPL-3.0 License (https://ultralytics.com/license)
+docs: https://docs.ultralytics.com
+stride: 32
+task: detect
+batch: 1
+imgsz:
+- 640
+- 640
+names:
+  0: Crack
+args:
+  batch: 1
+  half: false
+channels: 3
+end2end: false
